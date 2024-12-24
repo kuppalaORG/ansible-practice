@@ -1,3 +1,3 @@
-- hosts: all-playbook
+- hosts: all
   tasks:
     - ping:
